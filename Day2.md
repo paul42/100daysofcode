@@ -1,0 +1,2 @@
+# Day 2
+mostly was cleaning up some of the boilerplate that came with the sapper template and started filling out the 'blog' portion with my own thoughts, which was mostly putting the json into `_posts.js` which wasn't super fun, so I thought next time I'd try to see if I can get [MDsvex](https://mdsvex.com/) running from the very talented [pngwn](https://github.com/pngwn) or on twitter, [evilpingwin](http://twitter.com/evilpingwin) who is worth a follow if you're trying to learn more svelte
